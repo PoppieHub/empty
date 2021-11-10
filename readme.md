@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](./license.md)
 
-![GitHubFun](./assets/github-logo.png)
+![GitHubFun](./assets/OtherLogo.png)
 
 ---
 
