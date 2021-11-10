@@ -2,9 +2,8 @@
 
 LICENSE: [MIT](./license.md)
 
-![GitHubLogo](./assets/OtherLogo.png)
+![GitHubLogo](./assets/GitHub_Logo.png)
 
----
 
 ###Содержание
 1. [MarkDown](MarkDown.md)
