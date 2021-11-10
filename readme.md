@@ -1,8 +1,8 @@
-# Пустой шаблон Readme.md для проектов
+# Шаблон Readme.md для проектов
 
 LICENSE: [MIT](./license.md)
 
-![GitHubFun](./assets/OtherLogo.png)
+![GitHubLogo](./assets/GitHub_Logo.png)
 
 ---
 
